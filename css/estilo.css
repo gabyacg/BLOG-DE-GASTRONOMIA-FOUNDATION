@@ -1,0 +1,30 @@
+
+img{
+  max-height: 129px;
+}
+
+div.secondary.callout.text-center{
+  min-height: 242px;
+
+}
+.row{
+    background-color: rgb(153,102,153);
+    opacity:.85;
+}
+
+#panel{
+width: 65px;
+height: 65px;
+}
+
+
+body {
+background-color: rgb(153,102,153);
+}
+
+.contenedor{
+
+background-image:url("https://lh3.googleusercontent.com/-6USHd9ubdPs/Wd55mMpFniI/AAAAAAAAHUE/ReIgw3ScYNsA2J0s01XuhAWu5H1hCZikwCJoC/w530-h353-n-rw/blog%2Bgastronomia.jpg");
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
